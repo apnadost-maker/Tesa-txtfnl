@@ -144,7 +144,7 @@ image_urls = [
 random_image_url = random.choice(image_urls) 
 # Caption for the image
 caption = (
-        f"**H E L L O 👋 {message.from_user.full_name}**\n\n"
+        f"**H E L L O 👋 **\n\n"
         "➠ **ɪ ᴀᴍ ᴛxᴛ ᴛᴏ ᴠɪᴅᴇᴏ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.**\n"
         "➠ **ғᴏʀ ᴜsᴇ ᴍᴇ sᴇɴᴅ /akash.\n"
         "➠ **ғᴏʀ ɢᴜɪᴅᴇ sᴇɴᴅ /help."
